@@ -1,4 +1,4 @@
-# Cheeses of the World PowerBI Report
+# Cheeses of the World Report
 
 ![Power BI](https://img.shields.io/badge/Powered_by-PowerBI-blue)
 ![Status](https://img.shields.io/badge/status-Complete-brightgreen)
@@ -6,13 +6,11 @@
 
 ## Summary
 
-This report invites you to delve into the fascinating world of **Cheeses of the World**, guided by data through an amazing view of cheese types, origins, milk and diversity features. 
+This report invites you to delve into the fascinating world of Cheeses of the World, guided by data through an amazing view of cheese types, origins, milk and diversity features. 
 
 This report can be interesting to cheese lovers, data freaks, or just inquisitive minds who will relish the taste of this dashboard as presented with a cornucopia of visual stories.
 
 [**Report**](https://app.powerbi.com/view?r=eyJrIjoiNzI2OGIxYjItN2FiMy00ZTU0LWJmYWEtNWJjMTYyYThjYTQ5IiwidCI6IjdkZjczZTQwLWRlNzktNDk1MC1iYWQzLTkwODkwNTA3ZTM5OCIsImMiOjJ9)
-
----
 
 ## Features
 
@@ -34,8 +32,6 @@ This report can be interesting to cheese lovers, data freaks, or just inquisitiv
 -**Distribution Patterns**  
   Analyze global cheese popularity, trade, and regional consumption trends.
 
----
-
 ## Preview
 
 -[Dashboard Preview Page](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Dashboard-Preview.png)
@@ -46,13 +42,9 @@ This report can be interesting to cheese lovers, data freaks, or just inquisitiv
 
 -[Credits Page](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Credits.png)
 
----
-
 ## Tools
 
-- [Power BI](https://powerbi.microsoft.com/) – Data modeling & dashboard creation  
+- Power BI – Data modeling & dashboard creation  
 - Microsoft Excel / CSV – Raw data preparation  
-- [DAX](https://learn.microsoft.com/en-us/dax/) – Calculations and measures  
+- DAX – Calculations and measures  
 - Map Visualizations – For geographic cheese production insights
-
----
