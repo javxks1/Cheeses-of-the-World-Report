@@ -38,10 +38,10 @@ This report can be interesting to cheese lovers, data freaks, or just inquisitiv
 
 ## Dashboard Preview
 
-> _Coming Soon: Screenshot or embedded preview of the dashboard._  
-> *(You can upload `cheese-dashboard-preview.png` and include below)*
-
-[Dashboard Preview](Cheeses-of-the-World-Report/Dashboard-Preview.png)
+[Dashboard Preview](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Dashboard-Preview.png)
+[Dashboard Preview](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Dashboard-Preview.png)
+[Dashboard Preview](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Dashboard-Preview.png)
+[Dashboard Preview](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Dashboard-Preview.png)
 
 ---
 
