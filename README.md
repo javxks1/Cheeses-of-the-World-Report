@@ -1,1 +1,68 @@
-# Cheeses-of-the-World-Report
+# Cheeses of the World PowerBi Report
+
+![Power BI](https://img.shields.io/badge/Powered_by-PowerBI-blue)
+![Status](https://img.shields.io/badge/status-Complete-brightgreen)
+![Last Updated](https://img.shields.io/badge/last%20updated-July%202025-blue)
+
+## Overview
+
+Welcome to the **Cheeses of the World** Power BI report — a data-driven exploration of cheese varieties from across the globe. This project provides a rich, interactive dashboard analyzing types, origins, milk sources, and other unique characteristics of the world’s most beloved cheeses.
+
+Whether you're a cheese connoisseur, data enthusiast, or simply curious, this dashboard delivers a flavorful experience backed by engaging visual storytelling.
+
+[**Report**](https://app.powerbi.com/view?r=eyJrIjoiNzI2OGIxYjItN2FiMy00ZTU0LWJmYWEtNWJjMTYyYThjYTQ5IiwidCI6IjdkZjczZTQwLWRlNzktNDk1MC1iYWQzLTkwODkwNTA3ZTM5OCIsImMiOjJ9)
+
+---
+
+## Key Features
+
+-**Cheese Types & Varieties**  
+  Explore soft, semi-soft, semi-hard, hard, and fresh cheeses from various regions.
+
+-**Aromas & Flavors**  
+  Understand the sensory profiles that differentiate cheeses by region and style.
+
+- **Textures & Colors**  
+  Visual comparisons of creamy, crumbly, firm, and colorful cheeses.
+
+- **Milk Sources**  
+  Breakdown by cow, goat, sheep, and other milk types used in cheese production.
+
+- **Producers & Origins**  
+  Geographic mapping of cheese production regions and renowned producers.
+
+- **Distribution Patterns**  
+  Analyze global cheese popularity, trade, and regional consumption trends.
+
+---
+
+## Dashboard Preview
+
+> _Coming Soon: Screenshot or embedded preview of the dashboard._  
+> *(You can upload `cheese-dashboard-preview.png` and include below)*
+
+[Dashboard Preview](Cheeses-of-the-World-Report/Dashboard-Preview.png)
+
+---
+
+## Tools Used
+
+- [Power BI](https://powerbi.microsoft.com/) – Data modeling & dashboard creation  
+- Microsoft Excel / CSV – Raw data preparation  
+- [DAX](https://learn.microsoft.com/en-us/dax/) – Calculations and measures  
+- [Map Visualizations] – For geographic cheese production insights
+
+---
+
+##  Repository Structure
+Cheeses-of-the-World/
+├── README.md
+├── Cheeses-of-the-World-Report
+/Dashboard-Preview.png
+├── Cheese_Report.pbix # Power BI report file
+├── data/
+│ └── cheeses_world_data.csv # Raw or cleaned data
+├── images/
+│ └── cheese-dashboard-preview.png (optional)
+└── docs/
+└── cheese_metadata.md # Optional: data dictionary or source notes
