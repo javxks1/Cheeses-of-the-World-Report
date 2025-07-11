@@ -38,10 +38,10 @@ This report can be interesting to cheese lovers, data freaks, or just inquisitiv
 
 ## Preview
 
-[Dashboard Preview Page](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Dashboard-Preview.png)
-[Cheeses Summary Page](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Cheeses-summary.png)
-[Raw Data Page](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Raw-Data.png)
-[Credits Page](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Credits.png)
+-[Dashboard Preview Page](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Dashboard-Preview.png)
+-[Cheeses Summary Page](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Cheeses-summary.png)
+-[Raw Data Page](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Raw-Data.png)
+-[Credits Page](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Credits.png)
 
 ---
 
