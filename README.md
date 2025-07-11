@@ -6,9 +6,9 @@
 
 ## Overview
 
-Welcome to the **Cheeses of the World** Power BI report — a data-driven exploration of cheese varieties from across the globe. This project provides a rich, interactive dashboard analyzing types, origins, milk sources, and other unique characteristics of the world’s most beloved cheeses.
+This report invites you to delve into the fascinating world of **Cheeses of the World**, guided by data through an amazing view of cheese types, origins, milk and diversity features. 
 
-Whether you're a cheese connoisseur, data enthusiast, or simply curious, this dashboard delivers a flavorful experience backed by engaging visual storytelling.
+This report can be interesting to cheese lovers, data freaks, or just inquisitive minds who will relish the taste of this dashboard as presented with a cornucopia of visual stories.
 
 [**Report**](https://app.powerbi.com/view?r=eyJrIjoiNzI2OGIxYjItN2FiMy00ZTU0LWJmYWEtNWJjMTYyYThjYTQ5IiwidCI6IjdkZjczZTQwLWRlNzktNDk1MC1iYWQzLTkwODkwNTA3ZTM5OCIsImMiOjJ9)
 
