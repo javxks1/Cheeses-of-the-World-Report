@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-Complete-brightgreen)
 ![Last Updated](https://img.shields.io/badge/last%20updated-July%202025-blue)
 
-## Overview
+## Summary
 
 This report invites you to delve into the fascinating world of **Cheeses of the World**, guided by data through an amazing view of cheese types, origins, milk and diversity features. 
 
@@ -14,7 +14,7 @@ This report can be interesting to cheese lovers, data freaks, or just inquisitiv
 
 ---
 
-## Key Features
+## Features
 
 -**Cheese Types & Varieties**  
   Explore soft, semi-soft, semi-hard, hard, and fresh cheeses from various regions.
@@ -36,16 +36,16 @@ This report can be interesting to cheese lovers, data freaks, or just inquisitiv
 
 ---
 
-## Dashboard Preview
+## Preview
 
-[Dashboard Preview](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Dashboard-Preview.png)
-[Dashboard Preview](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Dashboard-Preview.png)
-[Dashboard Preview](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Dashboard-Preview.png)
-[Dashboard Preview](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Dashboard-Preview.png)
+[Dashboard Preview Page](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Dashboard-Preview.png)
+[Cheeses Summary Page](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Cheeses-summary.png)
+[Raw Data Page](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Raw-Data.png)
+[Credits Page](https://github.com/javxks1/Cheeses-of-the-World-Report/blob/main/Credits.png)
 
 ---
 
-## Tools Used
+## Tools
 
 - [Power BI](https://powerbi.microsoft.com/) – Data modeling & dashboard creation  
 - Microsoft Excel / CSV – Raw data preparation  
@@ -54,11 +54,17 @@ This report can be interesting to cheese lovers, data freaks, or just inquisitiv
 
 ---
 
-##  Repository Structure
+##  Repository 
 Cheeses-of-the-World/
 ├── README.md
 ├── Cheeses-of-the-World-Report
 /Dashboard-Preview.png
+├── Cheeses-of-the-World-Report
+/Credits.png
+├── Cheeses-of-the-World-Report
+/Raw-Data.png
+├── Cheeses-of-the-World-Report
+/Cheeses-summary.png
 ├── Cheese_Report.pbix # Power BI report file
 ├── data/
 │ └── cheeses_world_data.csv # Raw or cleaned data
