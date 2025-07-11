@@ -53,7 +53,7 @@ This report can be interesting to cheese lovers, data freaks, or just inquisitiv
 - [Power BI](https://powerbi.microsoft.com/) – Data modeling & dashboard creation  
 - Microsoft Excel / CSV – Raw data preparation  
 - [DAX](https://learn.microsoft.com/en-us/dax/) – Calculations and measures  
-- [Map Visualizations] – For geographic cheese production insights
+- Map Visualizations – For geographic cheese production insights
 
 ---
 
