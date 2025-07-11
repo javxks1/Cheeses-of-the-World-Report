@@ -1,4 +1,4 @@
-# Cheeses of the World PowerBi Report
+# Cheeses of the World PowerBI Report
 
 ![Power BI](https://img.shields.io/badge/Powered_by-PowerBI-blue)
 ![Status](https://img.shields.io/badge/status-Complete-brightgreen)
@@ -68,10 +68,9 @@ Cheeses-of-the-World/
 /Raw-Data.png
 ├── Cheeses-of-the-World-Report
 /Cheeses-summary.png
-├── Cheese_Report.pbix # Power BI report file
 ├── data/
-│ └── cheeses_world_data.csv # Raw or cleaned data
+│ └── cheeses_world_data.csv 
 ├── images/
-│ └── cheese-dashboard-preview.png (optional)
+│ └── cheese-dashboard-preview
 └── docs/
-└── cheese_metadata.md # Optional: data dictionary or source notes
+└── cheese_metadata.md
