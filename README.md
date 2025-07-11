@@ -22,16 +22,16 @@ This report can be interesting to cheese lovers, data freaks, or just inquisitiv
 -**Aromas & Flavors**  
   Understand the sensory profiles that differentiate cheeses by region and style.
 
-- **Textures & Colors**  
+-**Textures & Colors**  
   Visual comparisons of creamy, crumbly, firm, and colorful cheeses.
 
-- **Milk Sources**  
+-**Milk Sources**  
   Breakdown by cow, goat, sheep, and other milk types used in cheese production.
 
-- **Producers & Origins**  
+-**Producers & Origins**  
   Geographic mapping of cheese production regions and renowned producers.
 
-- **Distribution Patterns**  
+-**Distribution Patterns**  
   Analyze global cheese popularity, trade, and regional consumption trends.
 
 ---
